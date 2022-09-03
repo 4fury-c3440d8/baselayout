@@ -1,0 +1,4 @@
+$BROWSER="firefox"
+$EDITOR="medit"
+$FILEMANAGER="sakura -e lf"
+$TERM="sakura"

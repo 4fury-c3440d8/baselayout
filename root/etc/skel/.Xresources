@@ -1,0 +1,13 @@
+*customization: -color
+
+Xft.dpi:               96
+
+Xft.autohint:          0
+Xft.antialias:         1
+Xft.hinting:           1
+Xft.lcdfilter:         lcddefault
+Xft.hintstyle:         hintmedium
+Xft.rgba:              rgb
+
+XTerm.vt100.faceName:  monospace:size=12:antialias=true
+UXTerm.vt100.faceName: monospace:size=12:antialias=true

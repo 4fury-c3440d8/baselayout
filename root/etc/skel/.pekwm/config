@@ -1,0 +1,15 @@
+INCLUDE = "$_PEKWM_ETC_PATH/config_system"
+
+Files {
+    Theme = "$_PEKWM_THEME_PATH/lila"
+}
+
+Screen {
+    Workspaces = "2"
+    WorkspacesPerRow = "2"
+    WorkspaceNames = "α;β"
+
+    Placement {
+        Model = "Centered"
+    }
+}
